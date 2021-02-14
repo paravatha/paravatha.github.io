@@ -1,1 +1,4 @@
 theme: jekyll-theme-leap-day
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://paravatha.github.io"
