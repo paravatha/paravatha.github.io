@@ -1,4 +1,4 @@
-## Welcome to my personal GitHub Page site thing. 
+## Welcome to my GitHub Page site thing. 
 Yeah, I know..Not much to see here
 
 
