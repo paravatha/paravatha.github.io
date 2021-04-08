@@ -1,4 +1,4 @@
-## Welcome to my personal Git Page. Not much to see here
+## Welcome to my personal Git Page. Yeah, I know..Not much to see here
 
 #### Blog : https://paravatha.medium.com/
 
